@@ -8,10 +8,10 @@
 
 <a href="mailto:dreamdragon711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosuke-kuroki/) 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://wa.me/+818066733555) 
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+818066733555) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yosukekuroki) 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://yosuke-porfolio.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-0FAE540?style=for-the-badge&logo=next.js&logoColor=white)](https://)
+[![Resume](https://img.shields.io/badge/Resume-0FAE540?style=for-the-badge&logo=resume&logoColor=white)](https://freestardev711.github.io/resume.pdf)
 
 <h2> 🌱 Exᴘᴇʀɪᴇɴᴄᴇ & Iɴᴛᴇʀᴇꜱᴛᴇꜱ </h2>
 
